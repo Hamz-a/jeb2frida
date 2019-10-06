@@ -10,8 +10,8 @@ For more information, see: [Automated Frida hook generation with JEB][blogpost]
 
 
 ## Usage
-1. Put the *GenerateFridaHooks.py* script in the JEB scripts folder.
-2. Edit the script accordingly
+1. Put the *GenerateFridaHooks.py* script in the JEB scripts folder;
+2. Edit the script accordingly;
 3. Run it from JEB GUI or use the following command:
 
 ```bash
