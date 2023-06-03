@@ -59,4 +59,4 @@ Done.
 
 
 [okhttpmagicstr]: https://github.com/square/okhttp/blob/ba2c676aaf2b825528955f61dd43004a5bd9ca98/okhttp/src/main/java/okhttp3/CertificatePinner.kt#L175
-[blogpost]: https://bhamza.me/2019/10/06/Automated-Frida-hook-generation-with-JEB.html
+[blogpost]: https://bhamza.me/blogpost/2019/10/06/Automated-Frida-hook-generation-with-JEB.html
